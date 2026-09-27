@@ -19,4 +19,4 @@ The project includes:
 ### 1. Clone the repository
 
 ```bash
-[git clone https://github.com/yourusername/ai-tools-lab.git](https://github.com/mahabir24/ai-tools-lab/blob/main/SORTING.py)
+https://github.com/mahabir24/ai-tools-lab/blob/main/SORTING.py
