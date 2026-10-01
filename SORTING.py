@@ -1,5 +1,5 @@
 #<<<<<<< SORTING
-=======
+
 #BUBBLE SORT
 #>>>>>>> main
 def bubble_sort(arr):
